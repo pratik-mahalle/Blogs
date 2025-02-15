@@ -4,7 +4,6 @@ seoTitle: "Boosting Performance with Amazon Aurora Databases"
 datePublished: Tue Feb 11 2025 10:48:25 GMT+0000 (Coordinated Universal Time)
 cuid: cm70cznei002y09kz6rjs6lj3
 slug: how-amazon-aurora-enhances-database-performance-in-modern-cloud-applications
-tags: docker, aws, devops, k8s, aws-aurora
 
 ---
 
