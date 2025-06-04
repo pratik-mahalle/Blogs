@@ -2,7 +2,7 @@
 title: "Testing and Types of Testing: A Guide for Modern Dev Teams"
 datePublished: Wed Jun 04 2025 14:09:16 GMT+0000 (Coordinated Universal Time)
 cuid: cmbi0x7d1000108lccpfzfo79
-slug: testing-and-types-of-testing-a-guide-for-modern-dev-teams
+slug: testing-and-types-of-testing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749037193424/0d19881c-8f39-4f2a-b0ef-4f21b485f2cd.png
 tags: testing
 
